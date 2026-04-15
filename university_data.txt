@@ -1,0 +1,9 @@
+Student,101,Archita Dubey,9.000000
+Student,S01,Alice Smith,8.800000
+Student,S02,Bob Johnson,9.200000
+Student,S03,Charlie Brown,7.500000
+Faculty,F01,Dr. Alan Turing,Comp Sci
+Faculty,F02,Marie Curie,Physics
+Faculty,F1234,Dr. Nisha Kaur,MCA
+Student,104,Ashish,7.560000
+Faculty,F3032,Dr. Sarabjeet Kaur,MCA
